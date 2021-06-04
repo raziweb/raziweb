@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md Razi Shahid Ansari, a CS undergrad from India.
+- 👋 Hi, I’m <b>Md Razi Shahid Ansari</b>, a CS undergrad from India.
 - 👀 I’m interested in Back-end development.
 - 🌱 I’m currently honing my Data Structures and Algorithm skills.
 - 💞️ I’m looking to collaborate on web projects.
